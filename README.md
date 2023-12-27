@@ -12,6 +12,10 @@
   <a href="#memo-licença">Licença</a>
 </p>
 <br>
+<p align="center">
+   <img alt="License" src="./assets/capa.png">
+</p>
+
 
 <p align="center">
    <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -29,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-- [Visite o projeto online] (https://helpful-duckanoo-ad1d9a.netlify.app)
+- [Visite o projeto online] (https://khnum782.github.io/formulario_de_mentoria/)
 
 ## 🔖 Layout
 
